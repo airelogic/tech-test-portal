@@ -10,7 +10,7 @@ If you're looking to join the growing team of talented individuals at Aire Logic
 - Once you have chosen make sure you read through the instructions for that test thoroughly
 - Create a public code repository for your submission
 - Complete your submission in your own time
-- Once your happy, send a link to the public repository to our HR team
+- Once you're happy, send a link to the public repository to our HR team
 
 ## Tips
 
@@ -22,4 +22,4 @@ If you're looking to join the growing team of talented individuals at Aire Logic
 ## The Tech Tests
 
  - [T2 Lifestyle Checker](/T2-Lifestyle-Checker) - write a simple web app that asks citizens questions about their lifestyle to assess their health choices
- - [Patient Appointment Backend](/Patient-Appointment-Backend) - write a CRUD backend which stores patient demographic and appointment data
+ - [Patient Appointment Backend](/Patient-Appointment-Backend) - write a CRUD back end which stores patient demographic and appointment data
