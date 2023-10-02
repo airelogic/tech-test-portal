@@ -84,7 +84,7 @@ This patient's final Medi score is **4**.
 | Property                | Observation | Score | Comment                                                             |
 | ----------------------- | ----------- | ----- | ------------------------------------------------------------------- |
 | Air or oxygen?          | 2           | 2     | The patient requires supplementary oxygen.                          |
-| Consciousness           | 1           | 1     | The patient is unconscious or confused.                             |
+| Consciousness           | 1           | 3     | The patient is unconscious or confused.                             |
 | Respiration range       | 23          | 2     |                                                                     |
 | SpO<sub>2</sub>         | 88          | 0     | This is a normal range for patients breathing either air or oxygen. |
 | Temperature             | 38.5        | 1     |                                                                     |
