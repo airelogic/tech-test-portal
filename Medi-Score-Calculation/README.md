@@ -32,6 +32,8 @@ Your function can either take these measures as separate parameters, or take a s
 
 The Medi score for the patient should be returned as an **integer**.
 
+The middle column in the table below represents a **normal** range for readings which map to a score of 0 and the columns either side represent abnormal values that will accrue a score, those abnormal ranges exist above and below the normal range for some of the parameters.
+
 
 | Property                       | Score 3  | Score 2      | Score 1         | Score 0                        | Score 1               | Score 2               | Score 3          |
 | ------------------------------ | -------- | ------------ | --------------- | ------------------------------ | --------------------- | --------------------- | ---------------- |
