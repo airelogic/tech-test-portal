@@ -10,7 +10,7 @@ If you're looking to join the growing team of talented individuals at Aire Logic
 - Once you have chosen make sure you read through the instructions for that test thoroughly
 - Create a public code repository for your submission
 - Complete your submission in your own time
-- Once you're happy, send a link to the public repository to our HR team
+- Once you're happy, send a link to the public repository back to the AireLogic staff member that sent you the link to this repository
 
 For junior developers, we have some simpler tests which require less boilerplate and cover more well-defined problems.
 
