@@ -12,6 +12,8 @@ If you're looking to join the growing team of talented individuals at Aire Logic
 - Complete your submission in your own time
 - Once you're happy, send a link to the public repository to our HR team
 
+For junior developers, we have some simpler tests which require less boilerplate and cover more well-defined problems.
+
 ## Tips
 
  - Create your solution as though it was a production system, i.e. don't cut corners because it's "just a tech test"
@@ -22,4 +24,8 @@ If you're looking to join the growing team of talented individuals at Aire Logic
 ## The Tech Tests
 
  - [T2 Lifestyle Checker](/T2-Lifestyle-Checker) - write a simple web app that asks citizens questions about their lifestyle to assess their health choices
- - [Patient Appointment Backend](/Patient-Appointment-Backend) - write a CRUD back end which stores patient demographic and appointment data
+ - [Patient Appointment Backend](/Patient-Appointment-Backend) - write a CRUD backend which stores patient demographic and appointment data
+
+### For Junior Candidates
+
+ - [Medi Score Calculation](/Medi-Score-Calculation) - write a function to calculate a medical score for a patient, based on physiological measurements.
