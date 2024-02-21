@@ -7,8 +7,9 @@ Write a function to calculate the score for a patient. This is a simple rule-of-
 ## Introduction
 
 The Medi Score is a simple aggregate scoring system created for this test based on other scores used widely 
-in healthcare in which a score is calculated based on patients' physiological measurements. While this scoring system
-is similar to recognised scores like NEWS2 it is distinct from it and has some nuance of its own.
+in healthcare in which a score is calculated based on patients' physiological measurements. 
+For some patients these readings may be taken every hour or even more frequently depending on their condition.
+While this scoring system is similar to recognised scores like NEWS2 it is distinct from it and has some nuance of its own.
 
 The following observations are routinely taken when patients present to (or are being monitored in) hospital:
 
